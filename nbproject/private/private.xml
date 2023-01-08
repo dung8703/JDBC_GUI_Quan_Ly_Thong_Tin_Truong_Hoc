@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/mapper/MonHocMapper.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/Login/ForgotPassWord.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_DieuKhienDaTa/KhoaDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/mapper/RowMapper.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/mapper/LopMapper.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/GUIKhoa.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/GUIMonHoc.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/GUISinhVien.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_Impl/IMonHocDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_DieuKhienDaTa/LopDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/service/MonHoc_Service.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_DieuKhienDaTa/KetQuaDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_Impl/IKhoaDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/mapper/KetQuaMapper.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/model/Lop.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_Impl/ILopDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_DieuKhienDaTa/SinhVienDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/Login/Login.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/Login/Register.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/main/KetQua_Main.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_Impl/IKetQuaDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/service/Khoa_Service.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/MENU.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/main/SinhVien_Main.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_DieuKhienDaTa/MonHocDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_Impl/GenericDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/GUIKetQua.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/GUILopHoc.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/service/SinhVien_Service.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/mapper/SinhVienMapper.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/model/SinhVien.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/mapper/KhoaMapper.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/Login/ExchangePassWord.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/model/KetQua.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/GiaoDienQuanLy/GUIThongTinSinhVien.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_DieuKhienDaTa/AbstractDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/service/Lop_Service.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/dao_Impl/ISinhVienDao.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/service/KetQua_Service.java</file>
+            <file>file:/C:/Users/PC%20ACER/OneDrive/Desktop/CRUD_JDBC/src/main/Khoa_Main.java</file>
+        </group>
+    </open-files>
+</project-private>
